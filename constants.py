@@ -6,3 +6,8 @@ OBSTACLES = (
 
 WIDTH = 24
 HEIGHT = 21
+
+# question 3
+RADIUS = 2.0e-3
+BETA = 0.9
+TEMPERATURE0 = 1.0
